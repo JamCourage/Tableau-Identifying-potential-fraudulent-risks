@@ -20,7 +20,7 @@ Tableau desktop
 **步驟**            
 1. 各類別分店營收、溫度、雪量分析      
 	(1) 觀察各類型店家的營收與溫度、雪量是否有異常關係(例如溫度高時，反而營收高)     
-	(2) data model可參考[1_type_analysis.png](1_type_analysis.png)                        
+	(2) dashboard截圖與分析可參考[1_type_analysis.png](1_type_analysis.png)                        
 	
 2. 兩年度營收趨勢比較分析      
 	(1) 將兩年度的營收狀況繪製於同一張折現圖中，觀察趨勢是否差異過大           
